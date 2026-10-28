@@ -1,3 +1,4 @@
 Git helps us track changes in files. 
 Git lets us save different versions of our work. 
 Git helps people collaborate on projects. 
+Git makes it easier to track project history and collaborate.
